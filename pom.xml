@@ -137,7 +137,7 @@
     <scm>
         <connection>scm:git:git://github.com/DevDungeon/tools-http.git</connection>
         <developerConnection>scm:git:ssh://github.com:DevDungeon/tools-http.git</developerConnection>
-        <url>https://github.com/DevDungeon/tools-http/tree/master</url>
+        <url>https://github.com/DevDungeon/tools.http</url>
     </scm>
 
 </project>
