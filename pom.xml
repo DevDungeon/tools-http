@@ -6,7 +6,7 @@
 
     <groupId>com.devdungeon.tools</groupId>
     <artifactId>http</artifactId>
-    <version>2.0.0</version>
+    <version>2.0.1</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>An HTTP utility library</description>
@@ -135,8 +135,8 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:git://github.com/DevDungeon/tools-http.git</connection>
-        <developerConnection>scm:git:ssh://github.com:DevDungeon/tools-http.git</developerConnection>
+        <connection>scm:git:git://github.com/DevDungeon/tools.http.git</connection>
+        <developerConnection>scm:git:ssh://github.com:DevDungeon/tools.http.git</developerConnection>
         <url>https://github.com/DevDungeon/tools.http</url>
     </scm>
 
